@@ -13,6 +13,7 @@
 		CB164E7B25081CA5000F1CD5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB164E7925081CA5000F1CD5 /* Main.storyboard */; };
 		CB164E7D25081CA6000F1CD5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB164E7C25081CA6000F1CD5 /* Assets.xcassets */; };
 		CB164E8025081CA6000F1CD5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB164E7E25081CA6000F1CD5 /* LaunchScreen.storyboard */; };
+		CB164E882508E6CB000F1CD5 /* CalculatorBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB164E872508E6CB000F1CD5 /* CalculatorBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CB164E7C25081CA6000F1CD5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB164E7F25081CA6000F1CD5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CB164E8125081CA6000F1CD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CB164E872508E6CB000F1CD5 /* CalculatorBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CB164E7325081CA5000F1CD5 /* AppDelegate.swift */,
 				CB164E7525081CA5000F1CD5 /* SceneDelegate.swift */,
 				CB164E7725081CA5000F1CD5 /* ViewController.swift */,
+				CB164E872508E6CB000F1CD5 /* CalculatorBrain.swift */,
 				CB164E7925081CA5000F1CD5 /* Main.storyboard */,
 				CB164E7C25081CA6000F1CD5 /* Assets.xcassets */,
 				CB164E7E25081CA6000F1CD5 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				CB164E7825081CA5000F1CD5 /* ViewController.swift in Sources */,
 				CB164E7425081CA5000F1CD5 /* AppDelegate.swift in Sources */,
+				CB164E882508E6CB000F1CD5 /* CalculatorBrain.swift in Sources */,
 				CB164E7625081CA5000F1CD5 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
