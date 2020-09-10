@@ -65,7 +65,7 @@ class CalculatorBrain {
         var binaryFunction : (Double, Double) -> Double
         var firstOperand : Double
     }
- 
+    
     func clear() {
         accumulator = 0.0
         pending = nil
